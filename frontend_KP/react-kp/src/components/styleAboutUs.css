@@ -1,0 +1,11 @@
+.about-container{
+    margin: 2rem 4rem;
+    text-align: start;
+    line-height: 25px;
+}
+.about-container h2{
+    padding-bottom: 1rem;
+}
+.about-container p{
+    padding-bottom: 2rem;
+}
